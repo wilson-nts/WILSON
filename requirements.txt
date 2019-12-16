@@ -1,0 +1,9 @@
+# https://github.com/smartschat/tilse
+tilse
+
+networkx
+
+gensim
+
+# we only use multi-processing to speed up evaluation, which doesn't affect speed measurment in timeline generation.
+joblib
