@@ -1,5 +1,6 @@
-### Core code for NUTS (NUews Timeline Summarization) 
-`sentence_preprocessing.ipynb`: pre-processing instructions
-`TILSE_reproduction.ipynb`: reproduce results of TILSE
-`NUTS_timeline17.ipynb` and `NUTS_Crisis.ipynb`: will updated soon.
-\* Full code and data will be updated later.
+### WILSON ((neWs tImeLine SummarizatiON)
+WILSON: A Divide and Conquer Approach for Fast and Effective News Timeline Summarization
+
+- `sentence_preprocessing.ipynb`: pre-processing instructions
+- `TILSE_reproduction.ipynb`: to reproduce results of TILSE
+- `WILSON_timeline17.ipynb` and `WILSON_Crisis.ipynb`: to reproduce results of WILSON
